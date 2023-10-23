@@ -72,10 +72,21 @@ legend {
 body {
   font-family: 'Montserrat', sans-serif; }
 
+.container {
+  width: 1140px;
+  padding: 0 15px;
+  margin-left: auto;
+  margin-right: auto; }
+
 .section-cart {
   padding: 70px 0px 90px; }
 
 .section-cart__header {
   margin-bottom: 40px; }
+
+.title-1 {
+  font-size: 28px;
+  line-height: 1.3;
+  font-weight: 700; }
 
 /*# sourceMappingURL=main.css.map */
