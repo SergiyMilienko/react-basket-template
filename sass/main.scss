@@ -1,4 +1,9 @@
+@import "./base/vars";
 @import "./base/_reset.scss";
 @import "./base/_base.scss";
 @import "../sass/blocks/_section-cart.scss";
 @import "../sass/blocks/titles";
+@import "./blocks/cart-header";
+@import "../sass/blocks/product";
+@import "./blocks/cart-footer";
+@import "./blocks/count.scss";
